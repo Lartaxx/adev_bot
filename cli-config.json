@@ -1,0 +1,10 @@
+{
+  "template": "javascript",
+  "handlers": {
+    "commands": "src/commands",
+    "events": "src/events",
+    "inhibitors": null,
+    "buttons": null,
+    "selectMenus": null
+  }
+}
